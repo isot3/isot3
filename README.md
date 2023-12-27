@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @isot3
+- 👀 I’m interested in web and app development
+- 📫 you can reach me via discord -> "isidev"
